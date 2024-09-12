@@ -1,5 +1,6 @@
 import Image from "next/image";
 import logo from "./assets/whiteLogo.png"
+import { RiArrowDropDownLine } from "react-icons/ri";
 export default function Home() {
 
   const sideBarData = [
@@ -27,8 +28,10 @@ export default function Home() {
       <div className=" flex flex-col items-center item-justify gap-y-3 mt-10">
       {
         sideBarData.map((item)=>(
-          <div key={item.id} className="bg-[#f4f4f4] w-44 p-3  cursor-pointer rounded-md ">
+          <div key={item.id} 
+          className="bg-[#f4f4f4] w-48 py-3 px-2  cursor-pointer rounded-md justify-between  flex">
             {item.label}
+            <RiArrowDropDownLine className=" justify-center items-center   h-6 " />
           </div>
         ))
       }
