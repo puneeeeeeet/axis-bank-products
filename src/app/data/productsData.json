@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "label": "Corporate Payments",
+    "stars": "4",
+    "average": "3.5",
+    "votes": "14",
+    "description": "This product contains APIs that allow corporate to transfer money to their own account, third party...",
+    "items": [
+      {
+        "id": 2,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 3,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 4,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 5,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 6,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "label": "Corporate Payments",
+    "stars": "4",
+    "average": "3.5",
+    "votes": "14",
+    "description": "This product contains APIs that allow corporate to transfer money to their own account, third party...",
+    "items": [
+      {
+        "id": 8,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 9,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 10,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 11,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 12,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "label": "Corporate Payments",
+    "stars": "4",
+    "average": "3.5",
+    "votes": "14",
+    "description": "This product contains APIs that allow corporate to transfer money to their own account, third party...",
+    "items": [
+      {
+        "id": 14,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 15,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 16,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 17,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 18,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "label": "Corporate Payments",
+    "stars": "4",
+    "average": "3.5",
+    "votes": "14",
+    "description": "This product contains APIs that allow corporate to transfer money to their own account, third party...",
+    "items": [
+      {
+        "id": 20,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 21,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 22,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 23,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 24,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "label": "Corporate Payments",
+    "stars": "4",
+    "average": "3.5",
+    "votes": "14",
+    "description": "This product contains APIs that allow corporate to transfer money to their own account, third party...",
+    "items": [
+      {
+        "id": 26,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 27,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 28,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 29,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      },
+      {
+        "id": 30,
+        "text": "Instant Account Statement",
+        "quote": "This Api is used to fetch the....",
+        "api available": "2 Apis availabe"
+      }
+    ]
+  }
+]
