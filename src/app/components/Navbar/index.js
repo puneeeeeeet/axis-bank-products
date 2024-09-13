@@ -30,7 +30,7 @@ export default function Navbar() {
       {
         sideBarData.map((item)=>(
           <div key={item.id} 
-          className="bg-[#f4f4f4] w-48 py-3 px-2  cursor-pointer rounded-md justify-between  flex">
+          className="bg-[#f4f4f4] w-48 py-3 px-2  cursor-pointer rounded-md justify-between  flex drop-shadow-lg">
             {item.label}
             <RiArrowDropDownLine className=" justify-center items-center   h-6 " />
           </div>
