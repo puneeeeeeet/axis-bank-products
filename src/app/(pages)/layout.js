@@ -11,7 +11,7 @@ export default function DashboardLayout({
       </div>
 
       {/* Main content area */}
-      <div className="w-10/12 bg-[#f9f9f9] mt-28">
+      <div className="w-10/12 bg-[#f9f9f9] mt-20 ml-48">
         {children} {/* This is where the product page content will be rendered */}
       </div>
     </div>

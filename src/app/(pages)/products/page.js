@@ -1,5 +1,8 @@
+import { text } from "stream/consumers";
 import data from "../../data/productsData.json"
 export default function Products(){
+
+
     return (
       <div className="ml-16 mt-10">
         <div className=" text-4xl text-[#97144d] font-semibold ">
@@ -21,6 +24,17 @@ export default function Products(){
                 Average {item.average} ({item.votes} votes)
               </div>
               <div className="px-2 mt-5">{item.description}</div>
+              <div className="text-xl font-bold bg-[#97144d] text-white px-3 py-1 rounded-md cursor-pointer mt-2 ">
+                View More
+              </div>
+              <ul className="flex">
+                {/* {item.items.map((it) => (
+                  <div key={it.id} className="flex flex-col w-32 h-32 ">
+                    <div>{it.quote}</div>
+                  <div>{it.text}</div>
+                  </div>
+                ))} */}
+              </ul>
             </div>
           ))}
         </div>

@@ -21,11 +21,11 @@ export default function Navbar() {
 
   return (
     <div className=" flex flex-col">
-      <div className="bg-[#97144d] fixed top-0 w-screen h-8"> </div>
-      <div className="bg-[#97144d] h-20 w-fit p-2 fixed   top-8 rounded-br-md ">
+      <div className="bg-[#97144d] fixed top-0 w-screen z-20 h-8"> </div>
+      <div className="bg-[#97144d] h-20 w-fit p-2 fixed z-20  top-8 rounded-br-md ">
         <Image src={logo} alt="logo" className=" ml-10 mr-6  h-18 w-56"></Image>
       </div>
-      <div className=" bg-white h-screen mt-28 px-4 ">
+      <div className=" bg-white h-screen fixed pt-28 px-4 ">
       <div className=" flex flex-col items-center item-justify gap-y-3 mt-10">
       {
         sideBarData.map((item)=>(
