@@ -23,7 +23,7 @@ export default function Products() {
             </div>
             <div className="px-2 mt-5">{item.description}</div>
             <div className="text-xl font-bold bg-[#97144d] text-white px-3 py-1 rounded-md
-             cursor-pointer mt-2 drop-shadow-xl ">
+             cursor-pointer mt-2 drop-shadow-xl  ">
               View More
             </div>
             <ul className="flex">
