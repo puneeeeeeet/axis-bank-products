@@ -1,4 +1,3 @@
-import { text } from "stream/consumers";
 import data from "../../data/productsData.json"
 export default function Products(){
 
